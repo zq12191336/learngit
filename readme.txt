@@ -12,4 +12,4 @@ rebase
 master commit1
 master commit2
 mywork commit1
-
+mywork commit2
