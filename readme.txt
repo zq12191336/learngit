@@ -6,3 +6,4 @@ add merge fast forward fix bug
 working
 working2
 add comment
+add author
